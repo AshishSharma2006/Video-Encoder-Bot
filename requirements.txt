@@ -1,7 +1,7 @@
 # Required
 pyrogram
 TgCrypto
-python-dotenv
+python-3.11.2
 hachoir
 ffmpeg-python
 beautifulsoup4==4.9.1
